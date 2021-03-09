@@ -137,8 +137,6 @@ errorEntry = tk.Entry(
     fg = "plum3",
 ) #hidden until there's an actual error
 
-#loop and such
-
 #run GUI
 main.pack(fill=tk.BOTH, expand=True)
 mainLabel.grid(row = 0, column = 0, columnspan=2, pady = 20, padx = 50)
