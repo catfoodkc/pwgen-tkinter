@@ -1,6 +1,12 @@
 # pwgen-tkinter
 password generator with GUI made with tkinter. practice.
 
+# features
+* generate passwords of any length
+* generate several passwords at a time. choose your favorite!!!!
+* it can handle errors
+* commentary from yours truly
+
 # how to use
 it's a basic python script. 
 
